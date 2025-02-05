@@ -26,5 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muntasir-mahmud-abdullah&show_icons=true&locale=en&layout=compact" alt="muntasir-mahmud-abdullah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muntasir-mahmud-abdullah&show_icons=true&locale=en" alt="muntasir-mahmud-abdullah" /></p>
-<p><img align="left" src="https://streak-stats.demolab.com/?user=muntasir-mahmud-abdullah" alt="muntasir-mahmud-abdullah" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muntasir-mahmud-abdullah&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
 
