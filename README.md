@@ -5,7 +5,7 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muntasir-mahmud-abdullah" alt="muntasir-mahmud-abdullah" /></a> </p>
 -->
-- 🔭 I’m currently working on **Portfolio site**
+- 🔭 I’m currently working on <strong>Portfolio site</strong>
 
 - 🌱 I’m currently learning **React**
 
