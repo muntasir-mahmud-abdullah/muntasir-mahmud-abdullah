@@ -5,9 +5,9 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muntasir-mahmud-abdullah" alt="muntasir-mahmud-abdullah" /></a> </p>
 -->
-- 🔭 I’m currently working on <strong>Portfolio site</strong>
+- 🔭 I’m currently working on <strong>SM IT Solution as Full Stack Developer (intern)</strong>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**,**Redux**,**TypeScript**
 
 - 👯 I’m looking to collaborate on **github**
 
